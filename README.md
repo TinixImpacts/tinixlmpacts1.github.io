@@ -1,2 +1,2 @@
-# tinixlmpacts1.github.io
+# tinixlmpacts.github.io
 website
